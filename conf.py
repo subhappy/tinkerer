@@ -1408,7 +1408,6 @@ WARN_ABOUT_TAG_METADATA = False
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
 GLOBAL_CONTEXT = {
-	 "hyde_subtheme": "theme-base-08"
 }
 GLOBAL_CONTEXT['utterances_config'] = {"issue-term": "pathname", "theme": "github-light", "crossorigin": "anonymous" }
 
