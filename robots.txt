@@ -1,0 +1,4 @@
+Sitemap: https://tinkerer.digitalhjemmehjelp.no/sitemapindex.xml
+
+User-Agent: *
+Host: tinkerer.digitalhjemmehjelp.no

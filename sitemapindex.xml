@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <sitemap>
+  <loc>https://tinkerer.digitalhjemmehjelp.no/categories/blog.xml</loc>
+  <lastmod>2024-10-28T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://tinkerer.digitalhjemmehjelp.no/categories/cat_nikola.xml</loc>
+  <lastmod>2024-10-28T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://tinkerer.digitalhjemmehjelp.no/categories/demo.xml</loc>
+  <lastmod>2024-10-28T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://tinkerer.digitalhjemmehjelp.no/categories/nikola.xml</loc>
+  <lastmod>2024-10-28T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://tinkerer.digitalhjemmehjelp.no/categories/python.xml</loc>
+  <lastmod>2024-10-28T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://tinkerer.digitalhjemmehjelp.no/galleries/demo/rss.xml</loc>
+  <lastmod>2024-10-28T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://tinkerer.digitalhjemmehjelp.no/galleries/rss.xml</loc>
+  <lastmod>2024-10-28T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://tinkerer.digitalhjemmehjelp.no/rss.xml</loc>
+  <lastmod>2024-10-28T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://tinkerer.digitalhjemmehjelp.no/sitemap.xml</loc>
+  <lastmod>2024-10-28T20:38:00Z</lastmod>
+ </sitemap>
+</sitemapindex>
